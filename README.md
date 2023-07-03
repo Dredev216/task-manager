@@ -1,6 +1,9 @@
 # task-manager
- Um expansivo gestor de tarefas para colaboração de trabalho
+ 🟢 Name: Task Manager
+ 🗓️ Creation Date: 03 / 07 / 2023
+ ✍️ About: Um expansivo gestor de tarefas para colaboração de trabalho.
 
+================================================================================================================
 Pretende-se criar uma aplicação para gestão das tarefas de uma empresa. O sistema conta com as seguintes
 especificações :
 
@@ -28,3 +31,4 @@ Estados das tarefas:
     Em espera: Uma tarefa apenas atribuída a um funcionário que ainda não finalizou
     Finalizada: Tarefa que foi feita com sucesso
     Não finalizada: Uma tarefa que não foi concluída
+================================================================================================================
